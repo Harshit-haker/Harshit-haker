@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AS
 - 📫 How to reach me harshitkumar9044631@gmail.com,https://www.instagram.com/harshit_prajapati90044/
 
-<!---
+<!--
 "Hello! My name is Harshit, and I am a passionate Android developer. With 4 years of experience in mobile app development, I specialize in creating innovative and user-centric Android applications.
 
 I have a strong foundation in Android development frameworks, including the Android SDK, Java/Kotlin programming languages, and popular libraries such as Retrofit, Dagger, and RxJava. I stay updated with the latest advancements in the Android ecosystem to leverage the best tools and techniques in my projects.
